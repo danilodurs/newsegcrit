@@ -1,0 +1,11 @@
+Package: segRNAcountings
+Type: Package
+Title: Using Criteria To Choose A Segmentation of Counts From RNA-seq
+Version: 0.1.0
+Author: Danilo Dursoniah
+Maintainer: Danilo Dursoniah <ddursoniah@gmail.com>
+Description: Containing some criteria to choose an appropriate segmentation from criteria based on penalty value, such as mse or nid.
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.0
